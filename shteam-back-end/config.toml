@@ -1,0 +1,3 @@
+DATABASE_PATH = "./db/db.json"
+JWT_SECRET_KEY = 'Uc4*N6NADx$g!j!9VL*z&b5JVqvCam'
+UPLOAD_FOLDER = './uploads'
